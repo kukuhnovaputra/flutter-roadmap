@@ -53,13 +53,13 @@ Level ini fokus pada **pengujian kode dan UI**: unit test, widget test, dan inte
 **Unit test + Widget test:**
 
 ```bash
-cd 11-testing && flutter pub get && flutter test
+cd 12-testing && flutter pub get && flutter test
 ```
 
 **Integration test** (butuh device/emulator):
 
 ```bash
-cd 11-testing
+cd 12-testing
 flutter drive --driver=test_driver/integration_test.dart --target=integration_test/app_test.dart
 ```
 
