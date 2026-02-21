@@ -182,6 +182,7 @@ Flutter DevTools dipakai untuk debug layout (Widget Inspector) dan performance. 
 | `lib/stateless_stateful.dart` | StatelessWidget, StatefulWidget, setState, build |
 | `lib/layout_widgets.dart` | Scaffold, Container, Row, Column, Padding, Center |
 | `lib/user_input.dart` | GestureDetector, TextField, Form, ElevatedButton, TextButton, OutlinedButton |
+| `devtools.md` | Cara membuka Flutter DevTools, Widget Inspector, fitur singkat |
 | `README.md` | Dokumen ini (panduan level) |
 
 Jalankan project: `cd 06-widget-basics && flutter run`.
