@@ -165,8 +165,8 @@ void fungsiLain() {
 
 | File | Materi |
 |------|--------|
-| `1-variable.dart` | Keywords (var, final, const, late) + Null Safety (?, !, ??) |
-| `2-scope.dart` | Scope (Global, Local, Block) + Shadowing |
+| `variable.dart` | Keywords (var, final, const, late) + Null Safety (?, !, ??) |
+| `scope.dart` | Scope (Global, Local, Block) + Shadowing |
 | `README.md` | Dokumen ini (panduan level) |
 
 Jalankan tiap file dengan: `dart run nama_file.dart` (atau lewat IDE). Semua contoh di atas bisa di-copy ke `void main() { }` dan dijalankan.
